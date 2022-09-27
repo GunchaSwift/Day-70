@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C1A41D4628E3897500A1B04A /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A41D4528E3897500A1B04A /* Location.swift */; };
 		C1D3E71328E3838F009C5D20 /* Day_70App.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1D3E71228E3838F009C5D20 /* Day_70App.swift */; };
 		C1D3E71528E3838F009C5D20 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1D3E71428E3838F009C5D20 /* ContentView.swift */; };
 		C1D3E71728E38393009C5D20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1D3E71628E38393009C5D20 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C1A41D4528E3897500A1B04A /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		C1D3E70F28E3838F009C5D20 /* Day 70.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Day 70.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1D3E71228E3838F009C5D20 /* Day_70App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day_70App.swift; sourceTree = "<group>"; };
 		C1D3E71428E3838F009C5D20 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				C1D3E71228E3838F009C5D20 /* Day_70App.swift */,
 				C1D3E71428E3838F009C5D20 /* ContentView.swift */,
+				C1A41D4528E3897500A1B04A /* Location.swift */,
 				C1D3E71628E38393009C5D20 /* Assets.xcassets */,
 				C1D3E71828E38393009C5D20 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C1D3E71528E3838F009C5D20 /* ContentView.swift in Sources */,
+				C1A41D4628E3897500A1B04A /* Location.swift in Sources */,
 				C1D3E71328E3838F009C5D20 /* Day_70App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
